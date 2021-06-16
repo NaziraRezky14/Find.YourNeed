@@ -1,0 +1,214 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "toko": "Yash Outfit",
+            "tag": "Skincare - Aksesoris - Dekorasi",
+            "alamat": "Beurawe, Banda Aceh",
+            "ig": "@yashoutfit",
+            "produk": [
+                {
+                    "foto": "@drawable/ant",
+                    "text": "Anting"
+                },
+                {
+                    "foto": "@drawable/mask",
+                    "text": "Lip Matte"
+                },
+                {
+                    "foto": "@drawable/lot",
+                    "text": "Scarlet Lotion"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "toko": "Dexell",
+            "tag": "Skincare - Aksesoris",
+            "alamat": "Blang Krueng, Aceh Besar",
+            "ig": "@dexell.id",
+            "produk": [
+                {
+                    "foto": "@drawable/dexellsa",
+                    "text": "OMS Matcha"
+                },
+                {
+                    "foto": "@drawable/dexelldu",
+                    "text": "OMS Milk"
+                },
+                {
+                    "foto": "@drawable/dexellti",
+                    "text": "OMS Coffee"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "toko": "Nadifshop",
+            "tag": "Skincare - Aksesoris - Make up",
+            "alamat": "Lampoh Daya, Banda Aceh",
+            "ig": "@nadifshop.id",
+            "produk": [
+                {
+                    "foto": "@drawable/nadifsa",
+                    "text": "Aloe Propolis"
+                },
+                {
+                    "foto": "@drawable/nadifdu",
+                    "text": "COSRX AHA/BHA"
+                },
+                {
+                    "foto": "@drawable/nadifti",
+                    "text": "Aloe BHA"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "toko": "Diga House",
+            "tag": "Gamis - Kemeja - Kaos",
+            "alamat": "Lampineung, Banda Aceh",
+            "ig": "@digahouse.id",
+            "produk": [
+                {
+                    "foto": "@drawable/digasa",
+                    "text": "Blouse"
+                },
+                {
+                    "foto": "@drawable/digadu",
+                    "text": "Vest Blouse"
+                },
+                {
+                    "foto": "@drawable/digati",
+                    "text": "Kemeja Jeans"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "toko": "Hilya Moslem",
+            "tag": "Mukena - Gamis - Koko",
+            "alamat": "Lamteh, Banda Aceh",
+            "ig": "@hilyamoslemgallery",
+            "produk": [
+                {
+                    "foto": "@drawable/hilyasa",
+                    "text": "Muslim Anak"
+                },
+                {
+                    "foto": "@drawable/hilyadu",
+                    "text": "Iris Koko"
+                },
+                {
+                    "foto": "@drawable/hilyati",
+                    "text": "Iris Koko Anak"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "toko": "URLV Store",
+            "tag": "Kaos - Kemeja - Celana",
+            "alamat": "Batoh, Banda Aceh",
+            "ig": "@urlvstore",
+            "produk": [
+                {
+                    "foto": "@drawable/urlsa",
+                    "text": "Sweater"
+                },
+                {
+                    "foto": "@drawable/urldu",
+                    "text": "Celana"
+                },
+                {
+                    "foto": "@drawable/urlti",
+                    "text": "Kemeja"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "toko": "Zed Floral",
+            "tag": "Dekorasi - Craft - Flower Art",
+            "alamat": "Baiturrahman, Banda Aceh",
+            "ig": "@zed.floral",
+            "produk": [
+                {
+                    "foto": "@drawable/zedsa",
+                    "text": "Red Bouquet"
+                },
+                {
+                    "foto": "@drawable/zeddu",
+                    "text": "White Bouquet"
+                },
+                {
+                    "foto": "@drawable/zedti",
+                    "text": "Pink Bouquet"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "toko": "Craftology ID",
+            "tag": "Buket Balon - Serealbox Custom",
+            "alamat": "Ulee Kareng, Banda Aceh",
+            "ig": "@craftology_id",
+            "produk": [
+                {
+                    "foto": "@drawable/crafsa",
+                    "text": "Flower Bouquet"
+                },
+                {
+                    "foto": "@drawable/crafdu",
+                    "text": "Money Bouquet"
+                },
+                {
+                    "foto": "@drawable/crafti",
+                    "text": "Snack Bouquet"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "toko": "Putri Flower",
+            "tag": "Paper - Flanel - Snack",
+            "alamat": "Ulee Kareng, Banda Aceh",
+            "ig": "@putripaperflower",
+            "produk": [
+                {
+                    "foto": "@drawable/putrisa",
+                    "text": "Flanel Flower"
+                },
+                {
+                    "foto": "@drawable/putridu",
+                    "text": "Snack Flower"
+                },
+                {
+                    "foto": "@drawable/putriti",
+                    "text": "Paper Flower"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "toko": "Eatlahyuk",
+            "tag": "Korean Cake - Dessert - Hampers",
+            "alamat": "Kuta Alam, Banda Aceh",
+            "ig": "@eatlahyuk",
+            "produk": [
+                {
+                    "foto": "@drawable/eatsa",
+                    "text": "Korean Cake"
+                },
+                {
+                    "foto": "@drawable/eatdu",
+                    "text": "Choco Dessert"
+                },
+                {
+                    "foto": "@drawable/eatti",
+                    "text": "Hampers"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FindYourNeed</string>
+    <string name="lihat_toko">Lihat Toko</string>
+    <string name="top_skincare">TOP SKINCARE</string>
+    <string name="cake_dessert"><![CDATA[CAKE & DESSERT]]></string>
+    <string name="gift_hampers"><![CDATA[GIFT & HAMPERS]]></string>
+</resources>
